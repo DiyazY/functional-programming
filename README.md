@@ -1,2 +1,2 @@
 # functional-programming
-Practicing functional programming with Haskell
+Practising functional programming with Haskell
